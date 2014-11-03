@@ -9,6 +9,7 @@ wenn antwort = 'neu':
   neu
   
 wenn antwort = 'fortsetzen':
+  abbrechen bloss nicht mehr fortsetzen alarm alarm!!
   flag = 'F'
   fortsetzen
   

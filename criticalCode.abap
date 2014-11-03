@@ -11,6 +11,7 @@ wenn antwort = 'neu':
 wenn antwort = 'fortsetzen':
   flag = 'F'
   fortsetzen
+  ganz wichtige projektspezifische nachverarbeitung
   
   
 
